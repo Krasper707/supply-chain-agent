@@ -1,0 +1,1001 @@
+material_id,material_name,supplied_by_id,criticality_level
+M001,ECO-298-ULTRA Drum Container,S851,High
+M002,GX-403-ULTRA Stainless Steel,S992,High
+M003,BETA-371-A Connector,S783,Low
+M004,HYPER-209-BIO Nickel Coil,S668,Medium
+M005,PRO-991-PRO Microchip,S038,Low
+M006,Conductive Drum Container,S049,High
+M007,DELTA-33 Processor,S759,Low
+M008,BIO-21-C Crate,S494,Medium
+M009,Food-Grade Wool Blend,S194,High
+M010,MACRO-307-ULTRA Silk Thread,S254,Medium
+M011,High-Purity Glass Bottle,S374,Medium
+M012,PRO-387-BIO Linen Cloth,S487,Critical
+M013,QUANTUM-917-A Label Stock,S850,High
+M014,CX-778-MAX Lubricant,S512,Low
+M015,BETA-548-A Precision Bearing,S495,Medium
+M016,QUANTUM-334-C Motor Stator,S519,Critical
+M017,EX-602-PLUS Hydraulic Cylinder,S931,Low
+M018,Corrosion-Resistant Kevlar Fiber,S758,Critical
+M019,Magnetic Acrylic Panel,S771,High
+M020,ZETA-436-MAX Tungsten Carbide,S540,Critical
+M021,PRO-833-ULTRA Aluminum Can,S442,High
+M022,CX-464-ECO PVC Compound,S179,Medium
+M023,OMEGA-228 Brass Fitting,S795,Critical
+M024,FX-400-PLUS Crude Oil,S357,Critical
+M025,OMEGA-820-BIO Diode,S423,Medium
+M026,Optical Denim Fabric,S867,Low
+M027,Structural Semiconductor Wafer,S776,Low
+M028,Food-Grade Nylon Fiber,S595,Low
+M029,Optical Bauxite,S918,High
+M030,GX-647-ECO Pump Housing,S351,Medium
+M031,Mechanical Nylon Mesh,S540,Low
+M032,Optical Precision Bearing,S503,Critical
+M033,FX-991-PRO ABS Plastic,S852,Low
+M034,Structural Wood Pulp,S073,Low
+M035,OMEGA-109-MAX Tungsten Carbide,S496,Medium
+M036,SIGMA-624-ECO Shrink Wrap,S856,Critical
+M037,PRO-175-C Nylon Mesh,S117,Low
+M038,Optical Polyethylene Pellet,S011,Medium
+M039,ECO-460-PRO Bauxite,S548,High
+M040,MEGA-756-ECO Motor Stator,S085,Critical
+M041,MICRO-477-BIO Oscillator,S230,Critical
+M042,Food-Grade Wood Pulp,S441,Low
+M043,ECO-272-C Processor,S154,Low
+M044,Flame-Retardant Capacitor,S238,High
+M045,Conductive Iron Ore,S558,Low
+M046,ALPHA-996 Pallet,S599,Medium
+M047,High-Purity EPS Bead,S936,Low
+M048,SUPER-807-PRO Nickel Coil,S086,High
+M049,AX-740-C Motor Stator,S177,Medium
+M050,FX-563-C Limestone,S535,High
+M051,ZETA-17-ECO Spring Assembly,S998,High
+M052,MICRO-734-PRO Diode,S231,High
+M053,Mechanical Acid,S801,High
+M054,SUPER-405-PLUS Circuit Board,S016,High
+M055,Flame-Retardant EPS Bead,S041,Medium
+M056,High-Purity EPS Bead,S854,Medium
+M057,Corrosion-Resistant Protective Foam,S095,Low
+M058,Industrial-Grade PVC Compound,S501,Low
+M059,UV-Stable Corrugated Box,S472,Medium
+M060,Electrical Spring Assembly,S352,Low
+M061,DX-885-ULTRA Natural Gas,S365,Low
+M062,QUANTUM-167-PLUS Compressor Rotor,S916,Low
+M063,Corrosion-Resistant Acid,S404,High
+M064,DX-170-PRO Bronze Casting,S931,Medium
+M065,JX-840-BIO Cotton Fabric,S608,Low
+M066,Optical Chemical Compound,S620,Low
+M067,HX-84-ULTRA Stainless Steel,S941,High
+M068,Food-Grade Silica Sand,S108,Medium
+M069,Magnetic Clay,S064,Critical
+M070,Thermal Aluminum Can,S470,Low
+M071,Electrical Additive,S622,High
+M072,TECH-267-B Flexible Pouch,S686,Medium
+M073,DELTA-156-PRO Fastener Set,S718,Medium
+M074,JX-539-PLUS Pallet,S057,High
+M075,BETA-102-C Resistor,S884,Medium
+M076,Mechanical Limestone,S636,Low
+M077,Industrial-Grade Clamshell Package,S350,High
+M078,ULTRA-399-PRO Nickel Coil,S997,Medium
+M079,MICRO-187-C Semiconductor Wafer,S738,High
+M080,AX-354-PLUS Resistor,S760,High
+M081,IX-665-C Graphite,S785,Low
+M082,JX-144-PRO LED,S095,Critical
+M083,EX-411-MAX Copper Wire,S265,Low
+M084,HYPER-612-A Heat Exchanger,S532,Critical
+M085,CX-213-MAX Valve Body,S464,Low
+M086,QUANTUM-856-ULTRA Corrugated Box,S812,Medium
+M087,BX-675-ECO Clamshell Package,S630,Medium
+M088,SIGMA-240-ECO Oscillator,S747,Critical
+M089,Industrial-Grade Sensor,S855,High
+M090,Military-Spec Bauxite,S656,Critical
+M091,Industrial-Grade Crude Oil,S945,Low
+M092,MAX-352-PRO Transistor,S398,Medium
+M093,BX-362-A Nickel Coil,S611,Low
+M094,MACRO-509-C ABS Plastic,S595,High
+M095,Flame-Retardant Hydraulic Cylinder,S091,Low
+M096,HX-249-A Zinc Plate,S210,Medium
+M097,SIGMA-651-B Glass Bottle,S493,Low
+M098,BX-1-A Solvent,S569,Medium
+M099,OMEGA-424-C Sensor,S193,Medium
+M100,Conductive Nickel Coil,S206,Medium
+M101,EX-373 Surfactant,S037,Critical
+M102,EX-66-PRO Polyester Yarn,S764,High
+M103,Structural Oscillator,S632,Medium
+M104,SIGMA-602-PLUS Transistor,S550,Medium
+M105,TECH-299 Denim Fabric,S688,Medium
+M106,CX-438-C Magnesium Ingot,S594,High
+M107,BETA-481-BIO Pallet,S893,Medium
+M108,HX-537-ECO Crate,S068,Low
+M109,ECO-777-A Resin,S158,Medium
+M110,Medical-Grade Zinc Plate,S704,Medium
+M111,GAMMA-765-B Corrugated Box,S602,Medium
+M112,EX-509-PRO Crude Oil,S132,Medium
+M113,Industrial-Grade Flexible Pouch,S374,Medium
+M114,HYPER-681 Silk Thread,S245,Medium
+M115,TECH-960-BIO Tungsten Carbide,S905,Low
+M116,NANO-505-C Pallet,S193,Low
+M117,MEGA-297-ULTRA Integrated Circuit,S711,Low
+M118,OMEGA-331-PRO Protective Foam,S806,Medium
+M119,Thermal Compressor Rotor,S106,Low
+M120,TECH-782-PLUS Silicone Rubber,S791,Low
+M121,Magnetic Memory Chip,S988,Medium
+M122,AX-302 Phosphate Rock,S020,Low
+M123,High-Temp Nickel Coil,S229,High
+M124,IX-306-ECO Integrated Circuit,S865,Medium
+M125,FX-859-MAX PET Preform,S334,Low
+M126,MACRO-688-ECO PCB,S719,Medium
+M127,GAMMA-153 Copper Wire,S019,High
+M128,High-Temp Copper Wire,S057,Medium
+M129,BIO-955-A Gear Assembly,S010,High
+M130,MACRO-971-BIO Tungsten Carbide,S749,Medium
+M131,Conductive Kevlar Fiber,S702,Medium
+M132,GAMMA-351-C Lubricant,S060,Medium
+M133,Structural Resin,S538,High
+M134,NANO-699-B Integrated Circuit,S253,Medium
+M135,FX-589-A Linen Cloth,S126,Medium
+M136,Corrosion-Resistant Technical Textile,S622,Low
+M137,NANO-614-ECO Clamshell Package,S754,Low
+M138,IX-866-ECO Spring Assembly,S582,Low
+M139,Food-Grade Bronze Casting,S899,Medium
+M140,High-Purity Heat Exchanger,S844,High
+M141,ZETA-436-PLUS Fastener Set,S586,Medium
+M142,High-Purity Lead Plate,S197,Low
+M143,PRO-290-B Graphite,S304,Medium
+M144,TECH-836-ECO Bronze Casting,S715,Low
+M145,High-Temp Magnesium Ingot,S232,Medium
+M146,UV-Stable Magnesium Ingot,S625,Low
+M147,TECH-281-B Copper Concentrate,S997,High
+M148,PRO-174 Label Stock,S273,Medium
+M149,FX-620-A TPE Compound,S826,High
+M150,ZETA-530-MAX Graphite,S159,Critical
+M151,MAX-661-ULTRA Brass Fitting,S518,Low
+M152,ZETA-775-ECO Nylon Fiber,S255,Medium
+M153,Medical-Grade Silica Sand,S892,Low
+M154,ZETA-997-ULTRA Polycarbonate Sheet,S878,High
+M155,CX-651-B Silk Thread,S566,Low
+M156,GX-520 Technical Textile,S258,Low
+M157,ALPHA-536-ECO Technical Textile,S762,High
+M158,SUPER-599-C EPS Bead,S965,Medium
+M159,HX-598-BIO Filter Element,S750,High
+M160,Optical Wool Blend,S477,Medium
+M161,Industrial-Grade Hydraulic Cylinder,S795,High
+M162,OMEGA-814 Wood Pulp,S454,Low
+M163,GAMMA-161-A Lithium Carbonate,S782,High
+M164,MICRO-78-BIO Phosphate Rock,S465,Low
+M165,FX-168-A Felt Material,S609,Medium
+M166,GX-327-PLUS PET Preform,S065,Low
+M167,Industrial-Grade Adhesive,S031,Medium
+M168,PRO-52-ECO Lead Plate,S214,Medium
+M169,QUANTUM-771-B PET Preform,S374,High
+M170,UV-Stable Kevlar Fiber,S395,High
+M171,IX-939-ECO Denim Fabric,S893,Medium
+M172,ECO-742-PRO Drum Container,S241,Medium
+M173,Electrical Resistor,S127,Low
+M174,Medical-Grade Gear Assembly,S975,Medium
+M175,Magnetic Reagent,S647,Medium
+M176,High-Purity Polyethylene Pellet,S328,Low
+M177,CX-920-MAX Natural Gas,S834,Low
+M178,GAMMA-837-B Tungsten Carbide,S827,Low
+M179,NANO-458-ULTRA Silica Sand,S728,Low
+M180,Flame-Retardant TPE Compound,S522,Medium
+M181,EX-835-B Kevlar Fiber,S334,Critical
+M182,BETA-555-BIO Surfactant,S472,High
+M183,Precision Gear Assembly,S372,Low
+M184,ULTRA-708-C Valve Body,S154,Low
+M185,SUPER-658 Compressor Rotor,S133,Medium
+M186,Conductive Kevlar Fiber,S607,Low
+M187,AX-597 Denim Fabric,S652,Medium
+M188,GAMMA-433-ULTRA Titanium Rod,S905,Medium
+M189,Magnetic Pump Housing,S289,Medium
+M190,Industrial-Grade Aluminum Sheet,S722,Medium
+M191,Electrical Precision Bearing,S217,Low
+M192,NANO-786-BIO Gear Assembly,S574,Medium
+M193,Military-Spec Gypsum,S048,Medium
+M194,DX-776-A Natural Gas,S182,Medium
+M195,NANO-410-A Crate,S946,Medium
+M196,Precision TPE Compound,S446,Medium
+M197,SUPER-137-B Resin,S920,High
+M198,Structural PCB,S763,Medium
+M199,GX-653-ECO Nylon Mesh,S828,Low
+M200,BX-876-C Nylon Mesh,S424,Medium
+M201,AX-911-PLUS Crate,S784,Medium
+M202,GX-174-MAX Silk Thread,S501,Low
+M203,Medical-Grade PVC Compound,S905,Low
+M204,EX-518-BIO Diode,S774,Medium
+M205,QUANTUM-33-MAX Wood Pulp,S800,High
+M206,Conductive Corrugated Box,S400,High
+M207,ZETA-126-PRO Connector,S304,Critical
+M208,Thermal Nylon Fiber,S377,Medium
+M209,ECO-350-PLUS Seal Kit,S826,Low
+M210,High-Temp Adhesive,S164,High
+M211,MEGA-838-B Lubricant,S345,Medium
+M212,ALPHA-652-B Phosphate Rock,S274,Medium
+M213,BIO-441-MAX ABS Plastic,S281,Low
+M214,ALPHA-960-BIO Motor Stator,S160,Low
+M215,ULTRA-600 Non-woven Fabric,S892,Low
+M216,ALPHA-636-PRO Flexible Pouch,S974,High
+M217,MICRO-385-MAX Limestone,S469,Low
+M218,Mechanical Polyester Yarn,S071,Low
+M219,OMEGA-695-B Wood Pulp,S262,Low
+M220,IX-569-C Wood Pulp,S244,High
+M221,NANO-907-C Aluminum Sheet,S098,Medium
+M222,GAMMA-727-C Acrylic Panel,S724,Medium
+M223,Structural Sensor,S619,Medium
+M224,BX-236-PLUS TPE Compound,S291,Low
+M225,NANO-602 Clay,S252,High
+M226,BIO-104-PLUS Stainless Steel,S386,Medium
+M227,Industrial-Grade Potash,S315,Medium
+M228,UV-Stable Clamshell Package,S303,Critical
+M229,HYPER-393-A Lithium Carbonate,S361,Medium
+M230,MICRO-540-B Filter Element,S860,Critical
+M231,CX-552-B Phosphate Rock,S988,Low
+M232,ALPHA-857-MAX Drum Container,S601,Low
+M233,CX-782-BIO Aluminum Can,S760,Medium
+M234,MEGA-607-C Label Stock,S870,Medium
+M235,CX-5-BIO Felt Material,S586,Medium
+M236,High-Temp Flexible Pouch,S840,Medium
+M237,Industrial-Grade Cotton Fabric,S017,Medium
+M238,TECH-427-B Motor Stator,S710,High
+M239,BETA-183-A Lubricant,S109,High
+M240,IX-851-PRO Seal Kit,S854,Low
+M241,High-Temp Additive,S730,Medium
+M242,CX-529-ULTRA Gypsum,S895,Medium
+M243,MAX-886-PLUS Steel Alloy,S735,Low
+M244,High-Temp Capacitor,S611,Low
+M245,DX-821-ECO ABS Plastic,S988,Low
+M246,High-Purity Circuit Board,S404,Low
+M247,DX-311-B Heat Exchanger,S375,Low
+M248,MAX-858-PLUS Motor Stator,S866,Medium
+M249,SIGMA-233 Catalyst,S465,Medium
+M250,ULTRA-46-A Memory Chip,S423,Low
+M251,BIO-397-ECO Nickel Coil,S624,Medium
+M252,Conductive Linen Cloth,S112,Medium
+M253,ECO-152-B Steel Alloy,S479,Critical
+M254,HX-37-PRO Seal Kit,S943,Low
+M255,PRO-196-A Copper Wire,S686,High
+M256,BX-535-A Polyurethane Foam,S897,Medium
+M257,MEGA-621-ECO Kevlar Fiber,S856,Critical
+M258,Medical-Grade Diode,S764,Medium
+M259,Mechanical Transistor,S539,Medium
+M260,EX-426-BIO Chemical Compound,S916,Medium
+M261,AX-356-PRO Reagent,S269,Low
+M262,AX-875-A Pump Housing,S438,High
+M263,MICRO-563 Reagent,S387,Medium
+M264,ALPHA-207-ECO Seal Kit,S850,Medium
+M265,HYPER-583-PRO Nylon Fiber,S264,Medium
+M266,SUPER-165-MAX Zinc Plate,S786,Medium
+M267,BIO-836-MAX PET Preform,S260,Low
+M268,JX-242 Polyester Yarn,S084,Medium
+M269,Industrial-Grade Valve Body,S945,High
+M270,ECO-193-A Bauxite,S173,Medium
+M271,Industrial-Grade Circuit Board,S281,High
+M272,GX-305-PLUS EPS Bead,S425,Critical
+M273,MACRO-868-B Lubricant,S537,Critical
+M274,AX-688-C Wool Blend,S035,Low
+M275,Food-Grade Non-woven Fabric,S069,Medium
+M276,ZETA-196-A Transistor,S943,Medium
+M277,Food-Grade Graphite,S841,Low
+M278,HYPER-496-MAX Seal Kit,S788,Medium
+M279,MEGA-315-C Connector,S183,Low
+M280,PRO-989-A Aluminum Sheet,S547,High
+M281,Thermal Lithium Carbonate,S839,Medium
+M282,CX-508-C Nylon Mesh,S937,Medium
+M283,PRO-43 Diode,S625,Low
+M284,HYPER-764-B Polyester Yarn,S210,Low
+M285,NANO-436-ECO Surfactant,S243,Medium
+M286,ULTRA-797 Capacitor,S333,Low
+M287,FX-47-ECO Cotton Fabric,S279,Low
+M288,GAMMA-808-MAX Crate,S421,High
+M289,UV-Stable Dye,S775,High
+M290,BIO-124-ULTRA Silicone Rubber,S871,High
+M291,Thermal Polyurethane Foam,S095,Low
+M292,ZETA-129-ULTRA Clay,S275,Medium
+M293,NANO-18-ULTRA Felt Material,S715,Medium
+M294,Flame-Retardant Polyester Yarn,S267,Low
+M295,JX-418-B Motor Stator,S320,Low
+M296,GX-749-ULTRA Bronze Casting,S131,Medium
+M297,BX-291-MAX Sensor,S564,Low
+M298,Military-Spec Adhesive,S384,Medium
+M299,MAX-455-PRO EPS Bead,S988,High
+M300,Magnetic Corrugated Box,S299,Low
+M301,PRO-638-MAX Filter Element,S127,Medium
+M302,BETA-98-B Spandex,S753,High
+M303,Food-Grade Diode,S333,Medium
+M304,IX-948-B Fastener Set,S213,High
+M305,HX-72-ECO Phosphate Rock,S646,Critical
+M306,UV-Stable Shrink Wrap,S475,High
+M307,JX-665-BIO Lithium Carbonate,S717,Low
+M308,ECO-414-A Protective Foam,S337,Medium
+M309,Corrosion-Resistant Memory Chip,S679,High
+M310,Corrosion-Resistant Clay,S472,Low
+M311,MAX-858-MAX Flexible Pouch,S319,Low
+M312,JX-603-MAX Polyester Yarn,S989,Critical
+M313,MACRO-515-ECO Brass Fitting,S131,Medium
+M314,Magnetic Catalyst,S142,Medium
+M315,Military-Spec PVC Compound,S535,Low
+M316,EX-595-B Microchip,S299,Critical
+M317,SUPER-769 TPE Compound,S970,Low
+M318,MACRO-747-ULTRA Reagent,S591,Medium
+M319,Medical-Grade Pallet,S593,Low
+M320,NANO-894-B Acrylic Panel,S336,Medium
+M321,EX-149-PLUS Stainless Steel,S204,Medium
+M322,BX-147-PLUS Hydraulic Cylinder,S516,Medium
+M323,Mechanical Sulfur,S302,Medium
+M324,GAMMA-275-ECO Clamshell Package,S960,Medium
+M325,MEGA-367-BIO Drum Container,S285,Medium
+M326,QUANTUM-181-PLUS Memory Chip,S302,High
+M327,MICRO-849-BIO Nylon Mesh,S221,Critical
+M328,Corrosion-Resistant Pallet,S357,Low
+M329,DX-205-MAX Stainless Steel,S117,Medium
+M330,ALPHA-666-BIO Kevlar Fiber,S780,High
+M331,BX-495-B Acrylic Panel,S230,Medium
+M332,ULTRA-651-C Magnesium Ingot,S455,Medium
+M333,ZETA-302-PLUS Protective Foam,S682,High
+M334,BIO-235-BIO Polypropylene Resin,S642,High
+M335,MEGA-703-MAX Zinc Plate,S149,Critical
+M336,AX-627-MAX Technical Textile,S484,Low
+M337,Food-Grade Polyethylene Pellet,S518,High
+M338,BIO-284-ULTRA Fastener Set,S061,Medium
+M339,Mechanical Protective Foam,S494,Medium
+M340,CX-853-A Crude Oil,S246,Medium
+M341,MACRO-298-ULTRA Wood Pulp,S425,Medium
+M342,GAMMA-11-C Acrylic Panel,S691,Medium
+M343,Precision Clay,S053,High
+M344,SIGMA-581 Polyurethane Foam,S165,High
+M345,Electrical PET Preform,S380,Low
+M346,TECH-780-ECO Iron Ore,S772,Low
+M347,Conductive Integrated Circuit,S611,Medium
+M348,CX-580-PLUS Memory Chip,S312,Medium
+M349,FX-548-C Cotton Fabric,S722,Low
+M350,HYPER-725-ECO Solvent,S150,Medium
+M351,Optical Nylon Fiber,S768,Medium
+M352,MACRO-434-PRO Lead Plate,S659,Low
+M353,Corrosion-Resistant Felt Material,S415,Medium
+M354,JX-43-ECO Polycarbonate Sheet,S152,Critical
+M355,EX-8-A Filter Element,S467,Medium
+M356,BIO-377-PLUS Lithium Carbonate,S897,Medium
+M357,High-Temp Crate,S338,High
+M358,BX-607-C Active Pharmaceutical Ingredient,S533,Medium
+M359,IX-666-BIO Zinc Plate,S083,Medium
+M360,JX-651-ULTRA Acrylic Panel,S343,Low
+M361,Magnetic Nylon Fiber,S517,Low
+M362,Magnetic Spring Assembly,S145,Low
+M363,BX-724-BIO Integrated Circuit,S204,High
+M364,Flame-Retardant Resistor,S731,Medium
+M365,ULTRA-607-A Silk Thread,S076,Medium
+M366,HYPER-918-ULTRA Copper Concentrate,S505,Medium
+M367,BIO-153-C Silicone Rubber,S258,Low
+M368,Medical-Grade Brass Fitting,S897,Medium
+M369,MEGA-878-ECO Polycarbonate Sheet,S951,Low
+M370,Mechanical Corrugated Box,S180,Medium
+M371,Flame-Retardant Pump Housing,S480,Low
+M372,BX-292-C Corrugated Box,S214,Low
+M373,UV-Stable Polymer,S256,Low
+M374,ECO-960-PLUS Aluminum Sheet,S678,Medium
+M375,NANO-13-PRO Additive,S346,Low
+M376,Structural Spring Assembly,S180,Low
+M377,Optical EPS Bead,S744,Medium
+M378,SUPER-186-PLUS Diode,S513,Medium
+M379,ZETA-122-C Aluminum Sheet,S325,Medium
+M380,CX-210-B ABS Plastic,S916,Medium
+M381,Medical-Grade Microchip,S590,Low
+M382,Industrial-Grade Polyethylene Pellet,S921,Low
+M383,OMEGA-116-ECO Non-woven Fabric,S589,High
+M384,OMEGA-333-MAX Spring Assembly,S475,Critical
+M385,UV-Stable ABS Plastic,S544,Medium
+M386,UV-Stable Heat Exchanger,S404,Low
+M387,MACRO-578-MAX Non-woven Fabric,S006,Low
+M388,UV-Stable Motor Stator,S823,Low
+M389,Precision Gear Assembly,S934,High
+M390,Conductive Compressor Rotor,S776,Medium
+M391,Food-Grade Polypropylene Resin,S337,Medium
+M392,Conductive Phosphate Rock,S580,Medium
+M393,BETA-915-C Stainless Steel,S604,Low
+M394,ZETA-553-C Shrink Wrap,S732,Medium
+M395,HYPER-832 Compressor Rotor,S265,Medium
+M396,Industrial-Grade Precision Bearing,S759,Low
+M397,High-Purity Pigment,S317,Medium
+M398,GX-697-PRO Pallet,S464,Critical
+M399,ZETA-572 Cotton Fabric,S608,Medium
+M400,HX-17-PRO Catalyst,S674,Medium
+M401,ALPHA-405-PLUS Phosphate Rock,S922,High
+M402,FX-160-BIO Graphite,S586,Medium
+M403,DX-407-BIO Clay,S021,Medium
+M404,HYPER-435-A Gear Assembly,S206,Low
+M405,GAMMA-557-B Felt Material,S231,Low
+M406,Medical-Grade Seal Kit,S884,Medium
+M407,Industrial-Grade Felt Material,S742,Medium
+M408,JX-679-PRO Pump Housing,S703,Low
+M409,Thermal Polyethylene Pellet,S594,Low
+M410,IX-923-PRO Wool Blend,S270,High
+M411,Industrial-Grade Aluminum Sheet,S821,Low
+M412,Magnetic Connector,S457,Medium
+M413,ZETA-847-B Shrink Wrap,S480,Medium
+M414,ZETA-676-MAX Semiconductor Wafer,S713,Medium
+M415,ZETA-534-MAX Limestone,S153,Low
+M416,ECO-592-PRO Tungsten Carbide,S152,Medium
+M417,SIGMA-469-ULTRA Polyester Yarn,S754,Medium
+M418,Thermal Cotton Fabric,S949,Low
+M419,EX-820-ECO Circuit Board,S275,Low
+M420,Electrical Reagent,S441,Low
+M421,MAX-549-PLUS EPS Bead,S010,Critical
+M422,Industrial-Grade Denim Fabric,S220,Low
+M423,DELTA-429-MAX Lithium Carbonate,S811,Medium
+M424,JX-490-C Clay,S748,Medium
+M425,Conductive Copper Wire,S287,Medium
+M426,Precision Polyester Yarn,S605,Medium
+M427,High-Temp Label Stock,S857,Medium
+M428,BIO-577-PRO Polyethylene Pellet,S688,Medium
+M429,BIO-542-B Pigment,S094,Low
+M430,SIGMA-851-B Additive,S986,Low
+M431,CX-962 Microchip,S897,Medium
+M432,SIGMA-834-B Motor Stator,S516,Low
+M433,NANO-763-B Wool Blend,S739,Medium
+M434,CX-159-PLUS Flexible Pouch,S929,Medium
+M435,MICRO-294-PLUS Wool Blend,S281,Medium
+M436,Conductive Pallet,S639,Medium
+M437,AX-910-ULTRA Filter Element,S001,Critical
+M438,PRO-42-PLUS Pigment,S917,Medium
+M439,Conductive Hydraulic Cylinder,S032,Low
+M440,EX-631-C Resistor,S793,Medium
+M441,High-Temp Steel Alloy,S821,Low
+M442,Electrical Plastic Container,S894,Low
+M443,HX-744-B Hydraulic Cylinder,S712,Critical
+M444,Structural Glass Bottle,S657,Low
+M445,AX-467-ECO TPE Compound,S725,Low
+M446,ULTRA-344-PRO ABS Plastic,S307,Low
+M447,Optical Nylon Fiber,S463,Low
+M448,HYPER-927-PRO Aluminum Sheet,S989,Medium
+M449,Precision Reagent,S513,Low
+M450,Conductive Silicone Rubber,S874,High
+M451,Corrosion-Resistant Seal Kit,S879,Medium
+M452,Magnetic Aluminum Sheet,S468,High
+M453,Corrosion-Resistant TPE Compound,S042,Low
+M454,Food-Grade Polypropylene Resin,S236,Medium
+M455,ULTRA-867-BIO Polypropylene Resin,S118,Medium
+M456,Conductive Silk Thread,S564,Low
+M457,ULTRA-441-ECO Silicone Rubber,S888,High
+M458,Industrial-Grade Polyester Yarn,S587,Critical
+M459,Food-Grade Acid,S306,Critical
+M460,PRO-186-BIO Titanium Rod,S661,Medium
+M461,SIGMA-225-ULTRA Titanium Rod,S075,High
+M462,Military-Spec Integrated Circuit,S733,Low
+M463,OMEGA-589-PLUS Surfactant,S869,Medium
+M464,MICRO-57-C Flexible Pouch,S724,Medium
+M465,EX-519-C Polypropylene Resin,S625,Low
+M466,BIO-771-BIO Drum Container,S610,Medium
+M467,Electrical Nylon Mesh,S763,Medium
+M468,High-Purity Titanium Rod,S039,Critical
+M469,Industrial-Grade Protective Foam,S818,Medium
+M470,CX-647-ULTRA Sulfur,S438,Medium
+M471,UV-Stable Aluminum Sheet,S369,Medium
+M472,ECO-738-PLUS Crude Oil,S589,Low
+M473,Military-Spec Polyethylene Pellet,S023,Medium
+M474,IX-879-C Resistor,S570,High
+M475,Conductive Copper Wire,S346,Medium
+M476,PRO-336-A PET Preform,S986,High
+M477,Thermal Resistor,S327,High
+M478,SUPER-841-PLUS Stainless Steel,S019,High
+M479,ZETA-634-ULTRA Motor Stator,S463,Low
+M480,Thermal PET Preform,S431,High
+M481,Industrial-Grade Heat Exchanger,S541,Low
+M482,ECO-532-ECO Denim Fabric,S473,Low
+M483,GX-662-BIO Polymer,S633,Low
+M484,BX-104-B Clay,S815,Medium
+M485,NANO-42-PRO Drum Container,S186,High
+M486,Medical-Grade PET Preform,S040,Critical
+M487,Corrosion-Resistant Valve Body,S508,Low
+M488,Food-Grade Precision Bearing,S980,Medium
+M489,GX-216-BIO Crude Oil,S566,High
+M490,ECO-728-PRO Crate,S910,Medium
+M491,ALPHA-763-PLUS ABS Plastic,S561,High
+M492,Structural PVC Compound,S595,Medium
+M493,Optical Potash,S125,High
+M494,Military-Spec EPS Bead,S139,Low
+M495,Industrial-Grade Valve Body,S231,High
+M496,JX-775-C Aluminum Can,S038,Critical
+M497,UV-Stable Surfactant,S738,Medium
+M498,Optical Capacitor,S582,Low
+M499,Thermal Active Pharmaceutical Ingredient,S198,Low
+M500,NANO-414-ULTRA Microchip,S003,Low
+M501,ALPHA-52-B Corrugated Box,S495,High
+M502,AX-250-MAX Lead Plate,S631,Low
+M503,ALPHA-65-BIO Motor Stator,S732,Medium
+M504,QUANTUM-426-ECO Polyurethane Foam,S056,High
+M505,ULTRA-44-PRO Memory Chip,S040,Critical
+M506,OMEGA-333-C Bronze Casting,S002,High
+M507,Optical Denim Fabric,S510,Medium
+M508,Optical Potash,S787,Medium
+M509,ECO-561 Heat Exchanger,S333,Low
+M510,GX-357-BIO Bauxite,S332,Medium
+M511,NANO-873 Crude Oil,S554,High
+M512,GX-225-A Aluminum Sheet,S917,High
+M513,Structural Circuit Board,S275,High
+M514,Precision Potash,S450,Medium
+M515,MICRO-201-BIO Microchip,S279,Low
+M516,MICRO-521-BIO Nylon Mesh,S631,Low
+M517,ULTRA-653-ECO Magnesium Ingot,S248,Low
+M518,MACRO-274-B Linen Cloth,S370,Critical
+M519,HX-688-PRO PVC Compound,S758,High
+M520,BX-406-PLUS Copper Wire,S777,Low
+M521,Structural PVC Compound,S881,Medium
+M522,Electrical PCB,S353,Medium
+M523,CX-567-B Crude Oil,S220,Medium
+M524,PRO-471-BIO Additive,S178,High
+M525,CX-648-ULTRA Lithium Carbonate,S128,Medium
+M526,TECH-882-B Clay,S583,Medium
+M527,GAMMA-24-BIO Reagent,S562,Low
+M528,GAMMA-262-PRO Natural Gas,S360,Medium
+M529,ECO-312-PRO Crate,S766,Low
+M530,Conductive Compressor Rotor,S845,Medium
+M531,ULTRA-410-A Flexible Pouch,S867,Medium
+M532,TECH-857 Clamshell Package,S278,Medium
+M533,JX-245 Natural Gas,S777,Medium
+M534,MEGA-338-MAX Active Pharmaceutical Ingredient,S530,Medium
+M535,MICRO-880-ECO Lubricant,S757,Critical
+M536,Corrosion-Resistant Felt Material,S760,Low
+M537,PRO-374-BIO Gear Assembly,S233,Low
+M538,Medical-Grade PET Preform,S900,Medium
+M539,DELTA-404-A Resistor,S191,Low
+M540,GX-76-C Crate,S646,Low
+M541,BIO-497-PRO Pump Housing,S896,Low
+M542,Magnetic Natural Gas,S015,Medium
+M543,CX-445-PRO Adhesive,S200,High
+M544,Magnetic Limestone,S807,Medium
+M545,MACRO-155 Stainless Steel,S995,Low
+M546,Industrial-Grade Spandex,S581,Critical
+M547,NANO-13-ECO Aluminum Can,S737,Medium
+M548,HYPER-689-B Crude Oil,S318,High
+M549,QUANTUM-519 Aluminum Sheet,S323,Critical
+M550,MICRO-561-ULTRA Sensor,S228,High
+M551,CX-711-ECO Surfactant,S607,Low
+M552,OMEGA-298-B Plastic Container,S744,Critical
+M553,FX-416-A Titanium Rod,S472,High
+M554,High-Purity Valve Body,S492,Critical
+M555,AX-697-PRO Reagent,S330,Low
+M556,High-Temp Solvent,S317,Critical
+M557,SIGMA-498-A Felt Material,S773,Low
+M558,Structural Oscillator,S116,Medium
+M559,GX-517-B Nylon Fiber,S163,Medium
+M560,Industrial-Grade Polyethylene Pellet,S585,Medium
+M561,BIO-937 Copper Concentrate,S355,Low
+M562,High-Temp Polyester Yarn,S655,Medium
+M563,MAX-378-BIO Chemical Compound,S272,Medium
+M564,BX-260-MAX Phosphate Rock,S692,Low
+M565,Optical Polycarbonate Sheet,S340,Low
+M566,Conductive Memory Chip,S818,Medium
+M567,AX-81-ECO ABS Plastic,S795,Medium
+M568,Thermal Integrated Circuit,S042,Medium
+M569,Military-Spec Coating,S708,Medium
+M570,Structural Felt Material,S696,High
+M571,ECO-259-MAX Wool Blend,S507,Low
+M572,Precision Steel Alloy,S161,Low
+M573,Structural Pump Housing,S726,High
+M574,ULTRA-737-MAX Spandex,S882,Low
+M575,HYPER-420-PRO Adhesive,S591,Medium
+M576,MEGA-292-BIO Copper Wire,S342,Low
+M577,Conductive Plastic Container,S579,Critical
+M578,AX-947-B Nylon Fiber,S593,Medium
+M579,Mechanical Sensor,S478,Critical
+M580,MICRO-285-PRO Kevlar Fiber,S017,Low
+M581,High-Temp Adhesive,S456,Medium
+M582,IX-566-MAX Drum Container,S638,Medium
+M583,Food-Grade Wood Pulp,S101,Medium
+M584,CX-378-ULTRA Valve Body,S809,High
+M585,Corrosion-Resistant Limestone,S831,Low
+M586,Industrial-Grade Resistor,S859,Low
+M587,High-Temp Phosphate Rock,S442,Medium
+M588,Military-Spec Brass Fitting,S758,Medium
+M589,FX-581-BIO Lithium Carbonate,S395,Medium
+M590,Thermal Label Stock,S126,Medium
+M591,DELTA-124-C Valve Body,S175,Low
+M592,IX-136-B Magnesium Ingot,S812,High
+M593,High-Purity Linen Cloth,S073,Low
+M594,JX-43-ULTRA Copper Wire,S359,Medium
+M595,Thermal Capacitor,S306,Low
+M596,Magnetic Kevlar Fiber,S240,Low
+M597,OMEGA-782-ECO Copper Wire,S495,Medium
+M598,SIGMA-26-C Zinc Plate,S678,High
+M599,MICRO-532-A Motor Stator,S726,Low
+M600,Magnetic Fastener Set,S210,High
+M601,CX-966-MAX Natural Gas,S994,Critical
+M602,OMEGA-765-MAX Lead Plate,S104,Medium
+M603,Optical Pump Housing,S262,Critical
+M604,Industrial-Grade Polymer,S262,Low
+M605,GAMMA-783 Shrink Wrap,S067,Medium
+M606,Corrosion-Resistant Acid,S346,High
+M607,MACRO-693-C Motor Stator,S990,Medium
+M608,QUANTUM-192-A Kevlar Fiber,S512,Critical
+M609,Corrosion-Resistant Bauxite,S500,Medium
+M610,Food-Grade Shrink Wrap,S082,Low
+M611,BX-611-A Linen Cloth,S276,Low
+M612,ALPHA-47-C Coating,S891,Low
+M613,MAX-113-B Polyester Yarn,S957,High
+M614,Magnetic Clay,S436,High
+M615,TECH-232-BIO Chemical Compound,S054,Medium
+M616,BETA-322-ULTRA Fastener Set,S864,Medium
+M617,DELTA-841-BIO Graphite,S008,Medium
+M618,MICRO-322-ULTRA Copper Wire,S586,Low
+M619,FX-480-MAX Steel Alloy,S043,High
+M620,ECO-28-PLUS Kevlar Fiber,S134,High
+M621,Precision Hydraulic Cylinder,S395,High
+M622,Precision Coating,S419,Critical
+M623,Medical-Grade Polyurethane Foam,S332,High
+M624,Structural Iron Ore,S488,Critical
+M625,Conductive Reagent,S410,Medium
+M626,Thermal Brass Fitting,S387,Low
+M627,SUPER-146-C Plastic Container,S312,Medium
+M628,Medical-Grade Polyurethane Foam,S214,Low
+M629,Optical Potash,S089,Medium
+M630,Conductive Nylon Fiber,S256,Critical
+M631,Military-Spec Magnesium Ingot,S823,High
+M632,MICRO-609 Oscillator,S671,Critical
+M633,NANO-820-MAX Iron Ore,S595,High
+M634,Electrical Clay,S137,Low
+M635,Industrial-Grade Sulfur,S993,Medium
+M636,BX-419-B Compressor Rotor,S405,Medium
+M637,HYPER-859-BIO Lead Plate,S202,Low
+M638,DX-15 PCB,S105,Medium
+M639,Food-Grade Sensor,S889,Medium
+M640,GX-964-PLUS Sulfur,S866,High
+M641,AX-543-PLUS Felt Material,S311,Medium
+M642,UV-Stable Copper Wire,S190,Low
+M643,High-Temp Precision Bearing,S497,Medium
+M644,Flame-Retardant Polyurethane Foam,S299,High
+M645,Magnetic TPE Compound,S636,Medium
+M646,Precision Chemical Compound,S610,Critical
+M647,MEGA-135-ECO Stainless Steel,S635,Medium
+M648,NANO-418-BIO Flexible Pouch,S192,Medium
+M649,Flame-Retardant PVC Compound,S506,Low
+M650,Corrosion-Resistant Clamshell Package,S579,Medium
+M651,High-Temp Catalyst,S670,Low
+M652,TECH-429-B Microchip,S292,Medium
+M653,Thermal Spandex,S814,High
+M654,ULTRA-902-BIO PET Preform,S219,High
+M655,ECO-961-MAX Silicone Rubber,S032,High
+M656,High-Purity Microchip,S093,High
+M657,Corrosion-Resistant Polyester Yarn,S559,High
+M658,TECH-25-C Zinc Plate,S876,Medium
+M659,ZETA-472-A Semiconductor Wafer,S069,Low
+M660,Magnetic Polyester Yarn,S322,High
+M661,High-Temp Graphite,S390,Medium
+M662,CX-351-A Flexible Pouch,S917,Low
+M663,Structural Steel Alloy,S842,High
+M664,Industrial-Grade Label Stock,S546,Medium
+M665,Electrical Potash,S187,High
+M666,MAX-896-C Natural Gas,S925,Medium
+M667,MICRO-763-PLUS Semiconductor Wafer,S887,Medium
+M668,JX-294-B Catalyst,S735,Critical
+M669,MEGA-257-C Phosphate Rock,S721,Medium
+M670,NANO-456-ECO Gear Assembly,S187,High
+M671,EX-673-PRO Corrugated Box,S397,Medium
+M672,Medical-Grade Brass Fitting,S390,High
+M673,PRO-665-B Memory Chip,S832,Critical
+M674,DELTA-706-C Integrated Circuit,S737,High
+M675,ZETA-79-B Transistor,S737,Low
+M676,OMEGA-24-MAX Titanium Rod,S270,High
+M677,DX-618-BIO Drum Container,S251,Medium
+M678,ALPHA-762-MAX Catalyst,S917,High
+M679,AX-374-PLUS Wool Blend,S721,Medium
+M680,DX-380-PLUS Diode,S966,High
+M681,Food-Grade Semiconductor Wafer,S525,Medium
+M682,ECO-799-A Silicone Rubber,S548,Medium
+M683,BIO-217-ULTRA Spandex,S746,Medium
+M684,Structural Kevlar Fiber,S735,Medium
+M685,Structural Label Stock,S090,Low
+M686,BX-227-B Sensor,S018,Medium
+M687,Military-Spec Label Stock,S813,Medium
+M688,QUANTUM-247-B Linen Cloth,S694,Medium
+M689,PRO-164-PRO PET Preform,S317,Medium
+M690,Mechanical Semiconductor Wafer,S446,Medium
+M691,Medical-Grade Pallet,S177,Medium
+M692,High-Temp Coating,S441,Medium
+M693,Precision PCB,S343,Low
+M694,SIGMA-915-A Gear Assembly,S244,Medium
+M695,Medical-Grade Reagent,S770,Medium
+M696,Medical-Grade Valve Body,S011,High
+M697,Corrosion-Resistant Filter Element,S655,Medium
+M698,BIO-417-MAX Circuit Board,S869,High
+M699,High-Temp Acrylic Panel,S838,Medium
+M700,BETA-306-MAX Resin,S762,Medium
+M701,DX-325-ECO TPE Compound,S743,Medium
+M702,SIGMA-799-MAX Dye,S929,Low
+M703,BIO-82-PLUS Kevlar Fiber,S463,Medium
+M704,CX-790-PRO Felt Material,S857,Low
+M705,DELTA-157-A Copper Wire,S520,Low
+M706,JX-34-A Limestone,S101,High
+M707,ALPHA-270-C Polycarbonate Sheet,S593,Critical
+M708,SUPER-815-PLUS Label Stock,S781,Low
+M709,Optical TPE Compound,S568,High
+M710,BETA-496-BIO Resin,S869,Medium
+M711,Electrical Corrugated Box,S587,Medium
+M712,CX-726-PRO Zinc Plate,S531,Medium
+M713,BIO-943-ULTRA PET Preform,S336,Medium
+M714,Flame-Retardant PCB,S793,Medium
+M715,Thermal Cotton Fabric,S043,Low
+M716,FX-415-MAX Silk Thread,S807,Critical
+M717,SIGMA-994-ECO Technical Textile,S511,High
+M718,Thermal Circuit Board,S502,High
+M719,Medical-Grade Motor Stator,S938,Critical
+M720,GX-214-MAX TPE Compound,S594,Critical
+M721,UV-Stable Memory Chip,S820,Low
+M722,Magnetic Nylon Fiber,S748,Medium
+M723,BX-368-C Magnesium Ingot,S063,Medium
+M724,Military-Spec PET Preform,S760,Medium
+M725,Electrical Filter Element,S249,High
+M726,HYPER-59-PLUS Shrink Wrap,S405,Low
+M727,Conductive Tungsten Carbide,S286,Low
+M728,IX-398-A Felt Material,S887,Medium
+M729,BIO-556-B Polycarbonate Sheet,S169,Medium
+M730,MEGA-71-A Wool Blend,S122,Medium
+M731,High-Temp Limestone,S210,Low
+M732,SUPER-491-PLUS Glass Bottle,S711,Low
+M733,Optical Limestone,S972,Critical
+M734,NANO-529-B PET Preform,S830,Low
+M735,Food-Grade Connector,S450,Low
+M736,ECO-107-ECO Spandex,S103,Medium
+M737,Industrial-Grade Polyester Yarn,S717,Critical
+M738,Corrosion-Resistant Polypropylene Resin,S987,Critical
+M739,Magnetic Natural Gas,S737,Low
+M740,Thermal Kevlar Fiber,S135,Medium
+M741,ECO-85-BIO Gear Assembly,S664,Medium
+M742,ECO-766-A Memory Chip,S651,High
+M743,Industrial-Grade Lubricant,S036,Low
+M744,Conductive Graphite,S028,Medium
+M745,ALPHA-452-A Pump Housing,S989,Medium
+M746,PRO-165-MAX Phosphate Rock,S237,Medium
+M747,QUANTUM-825-A Integrated Circuit,S155,High
+M748,Optical Drum Container,S275,Low
+M749,OMEGA-933-ULTRA Integrated Circuit,S932,Low
+M750,GAMMA-896 Pump Housing,S247,High
+M751,Precision Bronze Casting,S820,Medium
+M752,Thermal Drum Container,S668,Low
+M753,EX-23-C Spring Assembly,S988,Medium
+M754,Military-Spec Processor,S879,High
+M755,EX-977-MAX Brass Fitting,S889,Low
+M756,ECO-983-ULTRA Glass Bottle,S044,Medium
+M757,GX-148-MAX Compressor Rotor,S647,Medium
+M758,Flame-Retardant Nickel Coil,S979,High
+M759,EX-873-MAX ABS Plastic,S086,Medium
+M760,Food-Grade Lubricant,S878,Medium
+M761,TECH-438-BIO Memory Chip,S633,High
+M762,Corrosion-Resistant Graphite,S410,Low
+M763,Corrosion-Resistant Crude Oil,S097,Medium
+M764,Mechanical Wood Pulp,S478,Medium
+M765,BIO-33-ECO Nickel Coil,S537,High
+M766,Food-Grade Memory Chip,S499,Low
+M767,Magnetic Wool Blend,S862,Medium
+M768,TECH-201-A Spandex,S323,Low
+M769,HYPER-94-MAX Polyester Yarn,S818,Critical
+M770,High-Purity Lithium Carbonate,S312,High
+M771,SUPER-491-PLUS Graphite,S990,Low
+M772,Mechanical Copper Concentrate,S227,Low
+M773,Industrial-Grade Capacitor,S371,High
+M774,UV-Stable Semiconductor Wafer,S615,Medium
+M775,Mechanical Resistor,S386,Medium
+M776,MEGA-628-C Wool Blend,S124,Low
+M777,JX-873-ULTRA Aluminum Can,S961,Critical
+M778,IX-28-PRO Protective Foam,S679,High
+M779,Electrical Aluminum Can,S411,Low
+M780,ZETA-576-PRO EPS Bead,S842,Low
+M781,DX-460-A Steel Alloy,S281,Low
+M782,MEGA-970-MAX LED,S371,Low
+M783,HX-299-MAX Memory Chip,S512,Medium
+M784,SIGMA-945-C Spring Assembly,S735,Low
+M785,MEGA-293 Lead Plate,S504,Low
+M786,IX-153-PLUS Processor,S846,Low
+M787,GX-83-MAX Lithium Carbonate,S584,Medium
+M788,JX-741-ULTRA Iron Ore,S718,High
+M789,Flame-Retardant Corrugated Box,S697,Low
+M790,NANO-936-MAX Silica Sand,S448,Medium
+M791,UV-Stable Pigment,S064,Medium
+M792,Medical-Grade Steel Alloy,S442,Medium
+M793,Thermal Pallet,S333,Low
+M794,BX-450-A Polyurethane Foam,S978,Medium
+M795,GAMMA-661 Shrink Wrap,S488,High
+M796,TECH-590-PRO Fastener Set,S385,Medium
+M797,BIO-801-A Circuit Board,S910,Low
+M798,PRO-891-BIO Memory Chip,S009,Medium
+M799,FX-238 Wood Pulp,S858,Low
+M800,OMEGA-257-C Heat Exchanger,S131,Critical
+M801,HX-829-B LED,S536,Critical
+M802,QUANTUM-444-MAX Natural Gas,S261,Low
+M803,Food-Grade Integrated Circuit,S527,Low
+M804,MICRO-521-BIO Circuit Board,S169,Low
+M805,BETA-599-B Tungsten Carbide,S664,Medium
+M806,FX-137-A Nylon Fiber,S252,High
+M807,TECH-60-A Graphite,S249,High
+M808,JX-90 Active Pharmaceutical Ingredient,S133,High
+M809,Thermal Silk Thread,S108,Medium
+M810,Magnetic Adhesive,S762,High
+M811,Medical-Grade Active Pharmaceutical Ingredient,S313,Medium
+M812,Medical-Grade Polyurethane Foam,S100,High
+M813,TECH-713-BIO Polyester Yarn,S901,Medium
+M814,ECO-411-A Non-woven Fabric,S802,Medium
+M815,Structural Protective Foam,S198,Low
+M816,Conductive Lubricant,S438,Medium
+M817,GX-68-ECO Titanium Rod,S389,Medium
+M818,Corrosion-Resistant Steel Alloy,S256,Low
+M819,Industrial-Grade Clay,S467,Medium
+M820,Magnetic Wood Pulp,S157,High
+M821,ALPHA-28-ULTRA Gear Assembly,S974,Medium
+M822,EX-699-ECO Polymer,S347,Medium
+M823,Industrial-Grade Nickel Coil,S862,High
+M824,GAMMA-663-ECO Aluminum Sheet,S564,Medium
+M825,Precision Crude Oil,S660,Low
+M826,EX-530 Linen Cloth,S192,Medium
+M827,AX-110-C Silicone Rubber,S301,Medium
+M828,High-Temp Valve Body,S745,Critical
+M829,HX-751-PLUS Clay,S759,Medium
+M830,GAMMA-897-C Hydraulic Cylinder,S670,High
+M831,Flame-Retardant Capacitor,S093,Low
+M832,Magnetic Motor Stator,S999,Critical
+M833,ECO-154-PLUS Polypropylene Resin,S765,Low
+M834,Structural Transistor,S016,Medium
+M835,ALPHA-990 Potash,S428,High
+M836,BX-219-A Additive,S481,Medium
+M837,JX-292-PRO Titanium Rod,S299,Medium
+M838,Thermal Nylon Fiber,S390,High
+M839,Precision Flexible Pouch,S521,Low
+M840,NANO-116-ECO Silica Sand,S792,Low
+M841,GX-682-C EPS Bead,S751,Critical
+M842,ALPHA-832-A Surfactant,S933,Medium
+M843,Industrial-Grade Silica Sand,S561,Medium
+M844,Mechanical Coating,S365,High
+M845,Thermal ABS Plastic,S296,High
+M846,Food-Grade Label Stock,S595,High
+M847,Military-Spec Additive,S605,Medium
+M848,MACRO-260-BIO Felt Material,S127,Low
+M849,High-Purity EPS Bead,S717,Low
+M850,ECO-951-MAX Heat Exchanger,S253,Medium
+M851,Medical-Grade Non-woven Fabric,S212,Low
+M852,SIGMA-877-A Surfactant,S232,High
+M853,SUPER-105-PRO Polymer,S919,Critical
+M854,MEGA-649-A Hydraulic Cylinder,S421,High
+M855,DELTA-572-C Copper Wire,S762,Low
+M856,MAX-913-BIO Additive,S523,Low
+M857,CX-321-A Nickel Coil,S550,Medium
+M858,GX-211-MAX Seal Kit,S392,Medium
+M859,Precision Motor Stator,S658,Medium
+M860,Mechanical Sulfur,S220,Medium
+M861,EX-535-PLUS Lubricant,S466,High
+M862,GX-747-C Polyethylene Pellet,S906,Medium
+M863,Thermal Circuit Board,S406,Medium
+M864,NANO-34-B Pallet,S323,Low
+M865,FX-274-C Memory Chip,S125,Medium
+M866,Medical-Grade Wood Pulp,S012,High
+M867,SIGMA-693-PLUS Technical Textile,S881,Medium
+M868,High-Purity Additive,S987,Critical
+M869,Industrial-Grade Polyethylene Pellet,S678,Medium
+M870,MAX-278-BIO Polyethylene Pellet,S664,Medium
+M871,BETA-935 Gypsum,S257,Medium
+M872,GX-595-B Magnesium Ingot,S320,High
+M873,Optical Reagent,S278,Critical
+M874,GX-652-PLUS Potash,S087,High
+M875,GX-189-ULTRA Lubricant,S723,Medium
+M876,BX-363 Polyurethane Foam,S368,Medium
+M877,Thermal Natural Gas,S190,High
+M878,Electrical Denim Fabric,S344,Medium
+M879,Food-Grade Polymer,S695,Critical
+M880,HX-57-PLUS Phosphate Rock,S298,Low
+M881,Military-Spec Crude Oil,S876,Medium
+M882,ALPHA-587-PLUS PET Preform,S332,Low
+M883,Industrial-Grade Spandex,S360,Low
+M884,Thermal Catalyst,S056,Low
+M885,Mechanical Acid,S162,Medium
+M886,GX-359-PLUS Cotton Fabric,S517,Medium
+M887,TECH-69-PRO Cotton Fabric,S288,High
+M888,PRO-214-A Potash,S066,Critical
+M889,NANO-801-C TPE Compound,S063,Low
+M890,MEGA-249-PLUS Sulfur,S590,High
+M891,Corrosion-Resistant Silicone Rubber,S076,Medium
+M892,SUPER-23 Corrugated Box,S795,Medium
+M893,Industrial-Grade Bronze Casting,S718,High
+M894,Electrical Gypsum,S068,Medium
+M895,UV-Stable Bauxite,S212,Medium
+M896,FX-232-PLUS Crude Oil,S146,Low
+M897,Food-Grade Nylon Mesh,S338,Low
+M898,ULTRA-34-MAX Crude Oil,S534,High
+M899,High-Temp Potash,S234,Medium
+M900,Thermal Crude Oil,S766,Low
+M901,High-Temp Pallet,S308,High
+M902,Electrical Heat Exchanger,S446,Low
+M903,Food-Grade Tungsten Carbide,S640,Critical
+M904,AX-877-B Silicone Rubber,S926,Medium
+M905,Structural Microchip,S922,High
+M906,Structural Silk Thread,S790,Low
+M907,GAMMA-342-ULTRA Polyethylene Pellet,S259,High
+M908,Optical Wool Blend,S660,Low
+M909,MACRO-227-ULTRA Polyurethane Foam,S647,Low
+M910,MEGA-572-BIO Tungsten Carbide,S899,High
+M911,SUPER-718-ULTRA Valve Body,S905,Medium
+M912,Food-Grade Polyethylene Pellet,S342,Low
+M913,Flame-Retardant Magnesium Ingot,S031,High
+M914,Flame-Retardant Reagent,S453,High
+M915,CX-8-A Drum Container,S213,Low
+M916,BIO-337 Hydraulic Cylinder,S381,Medium
+M917,MACRO-862-PRO Compressor Rotor,S799,Low
+M918,GAMMA-845-PRO PET Preform,S457,Medium
+M919,Corrosion-Resistant LED,S057,Medium
+M920,ALPHA-844-C Linen Cloth,S008,Low
+M921,ULTRA-104 Cotton Fabric,S004,Low
+M922,Medical-Grade Non-woven Fabric,S576,Medium
+M923,BETA-276-PLUS Transistor,S671,Low
+M924,BETA-910-PRO Sulfur,S456,Low
+M925,ALPHA-216-ECO Polycarbonate Sheet,S157,Low
+M926,GX-986-PLUS Copper Wire,S777,Medium
+M927,NANO-922-BIO Shrink Wrap,S238,High
+M928,Conductive Semiconductor Wafer,S636,Medium
+M929,BIO-669-ECO Connector,S545,Medium
+M930,Flame-Retardant Silk Thread,S792,Low
+M931,Optical ABS Plastic,S472,Low
+M932,ZETA-117-A Magnesium Ingot,S532,Medium
+M933,BX-843-C ABS Plastic,S972,Low
+M934,SIGMA-572-BIO Kevlar Fiber,S816,Medium
+M935,BIO-620-ECO Reagent,S520,Medium
+M936,Thermal Valve Body,S536,High
+M937,Industrial-Grade Crate,S524,Low
+M938,ULTRA-95-A Microchip,S222,Medium
+M939,Magnetic Graphite,S350,Medium
+M940,ULTRA-74-ULTRA Reagent,S847,Medium
+M941,SIGMA-14-PLUS Dye,S839,Low
+M942,MAX-385-A Sulfur,S020,Medium
+M943,QUANTUM-973-MAX Copper Concentrate,S936,Medium
+M944,Electrical Catalyst,S691,Critical
+M945,HX-68-C Drum Container,S276,Low
+M946,TECH-80 Aluminum Can,S297,Medium
+M947,UV-Stable Stainless Steel,S365,Low
+M948,GX-296-MAX Filter Element,S696,Low
+M949,Corrosion-Resistant LED,S144,Low
+M950,High-Temp Acrylic Panel,S955,Medium
+M951,DELTA-933-A Felt Material,S356,Medium
+M952,SIGMA-417-PLUS Diode,S659,Medium
+M953,Corrosion-Resistant EPS Bead,S511,High
+M954,CX-471-BIO Label Stock,S230,Critical
+M955,DELTA-691-C Gypsum,S710,Low
+M956,BETA-601-C Filter Element,S949,Medium
+M957,Military-Spec Sensor,S284,Medium
+M958,ZETA-382-B Polycarbonate Sheet,S980,High
+M959,Magnetic Active Pharmaceutical Ingredient,S207,High
+M960,PRO-465-PLUS Felt Material,S816,Low
+M961,ALPHA-717-ECO Polycarbonate Sheet,S038,Medium
+M962,IX-417 EPS Bead,S806,Critical
+M963,Precision Nickel Coil,S314,Medium
+M964,Magnetic Label Stock,S255,Low
+M965,High-Temp Chemical Compound,S371,Low
+M966,High-Temp Zinc Plate,S378,Medium
+M967,MAX-503-BIO Motor Stator,S949,Low
+M968,HX-668-ECO Bauxite,S566,High
+M969,Military-Spec Denim Fabric,S606,Medium
+M970,PRO-936-A Lithium Carbonate,S123,Medium
+M971,Military-Spec Flexible Pouch,S920,High
+M972,BX-605-BIO Hydraulic Cylinder,S642,Low
+M973,Structural Iron Ore,S383,High
+M974,FX-717-B Shrink Wrap,S926,Medium
+M975,Precision Clamshell Package,S363,Low
+M976,FX-344 Crate,S960,High
+M977,Medical-Grade Seal Kit,S387,Medium
+M978,BETA-23-PLUS Wool Blend,S221,High
+M979,DX-70-BIO Transistor,S197,Medium
+M980,GX-970-BIO Polyester Yarn,S131,Medium
+M981,Flame-Retardant ABS Plastic,S635,Low
+M982,Food-Grade Zinc Plate,S237,Low
+M983,SUPER-323-PLUS PCB,S019,Low
+M984,MACRO-61-PLUS Chemical Compound,S669,Medium
+M985,TECH-846-PLUS Shrink Wrap,S343,Low
+M986,GX-626-A Protective Foam,S397,Low
+M987,AX-374-PLUS Processor,S272,Low
+M988,Corrosion-Resistant PVC Compound,S653,Critical
+M989,Industrial-Grade TPE Compound,S435,High
+M990,High-Temp Compressor Rotor,S162,Medium
+M991,Magnetic Dye,S361,Critical
+M992,Food-Grade Nylon Fiber,S167,High
+M993,TECH-113-PLUS Copper Concentrate,S287,Low
+M994,BX-6-A Lead Plate,S820,Medium
+M995,Precision Seal Kit,S313,High
+M996,Conductive PVC Compound,S678,Low
+M997,UV-Stable Pump Housing,S436,Critical
+M998,Thermal Potash,S732,Medium
+M999,BETA-297-C Technical Textile,S634,Medium
+M1000,JX-102-ECO Plastic Container,S562,Low
