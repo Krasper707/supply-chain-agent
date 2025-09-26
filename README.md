@@ -53,7 +53,7 @@ The agent autonomously scans for news events, cross-references them against a co
 3.  **Build the Vector Database (First-time setup):**
     Before running the agent, you must create the vector database from the mock data. This command only needs to be run once.
     ```bash
-    python src/vector_db.py
+    python vector_db.py
     ```
     This will create a `db/` folder in your project directory containing the knowledge base.
 
@@ -90,7 +90,7 @@ The agent autonomously scans for news events, cross-references them against a co
 
 3.  **Run the main application:**
     ```bash
-    python src/main.py
+    python main.py
     ```
 
 ---
@@ -119,8 +119,4 @@ Thought: I have found a direct connection. A news event mentions Taiwan, and our
 Final Answer: Based on the recent news... the only relevant entity to our supply chain is the supplier 'Modern Delta Corp' in New Taipei, Taiwan... it is important to monitor the situation in Taiwan for any potential disruptions...
 
 > Finished chain.
-```
-
-```
-
 ```
