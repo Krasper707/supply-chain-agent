@@ -3,6 +3,8 @@ python-dotenv
 langchain
 langchain-core  # Add this
 langchain-community  # Add this
+langchain-openai
+langchain-community
 
 openai
 chromadb

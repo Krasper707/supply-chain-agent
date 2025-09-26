@@ -4,10 +4,8 @@ from langchain_community.document_loaders import DataFrameLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import SentenceTransformerEmbeddings
-
+from src.config import DATA_PATH, DB_PATH, EMBEDDING_MODEL
 # Define the paths to your data and the persistent database directory
-DATA_PATH = "data/"
-DB_PATH = "db/"
 
 def create_vector_db():
     """
@@ -53,7 +51,7 @@ def create_vector_db():
 
     # 3. CREATE EMBEDDINGS
     print("\nStep 3: Creating embeddings...")
-    embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+    embeddings = SentenceTransformerEmbeddings(model_name=EMBEDDING_MODEL)
     print("Embeddings model loaded.")
 
     # 4. CREATE AND PERSIST THE VECTOR DATABASE
