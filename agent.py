@@ -30,18 +30,41 @@ def news_scanner_tool(query: str) -> str:
 @tool
 def supply_chain_retriever_tool(query: str) -> str:
     """
-    Queries the company's internal supply chain vector database. Use this tool to check
-    if a specific location (city, country), company name, or material mentioned in a news
-    article is relevant to our supply chain. The input should be the specific entity
-    to search for.
+    Queries the company's internal supply chain vector database to find information
+    about suppliers, materials, and locations. Crucially, this tool now returns
+    both the retrieved information AND its 'Criticality Level'.
     """
-    print(f"--- AGENT ACTION: Calling Supply Chain Retriever with query: '{query}' ---")
+    print(f"--- AGENT ACTION: Calling Upgraded Supply Chain Retriever with query: '{query}' ---")
+    
+    # Load the embedding function and the vector database from disk
     embeddings = SentenceTransformerEmbeddings(model_name=EMBEDDING_MODEL)
     vectordb = Chroma(persist_directory=DB_PATH, embedding_function=embeddings)
     
-    results = vectordb.similarity_search(query, k=3) # Get top 3 results
+    # Perform a similarity search. We ask for the single best match (k=1) for clarity.
+    results = vectordb.similarity_search(query, k=1)
     
     if results:
-        # Format the results into a single string for the LLM
-        return "\n\n".join([doc.page_content for doc in results])
+        # Get the first and best document match
+        doc = results[0]
+        page_content = doc.page_content
+        
+        # --- THIS IS THE KEY UPGRADE ---
+        # We access the document's metadata and get the criticality level.
+        # .get() is a safe way to do this; it returns 'Unknown' if the key doesn't exist.
+        criticality = doc.metadata.get('criticality_level', 'Unknown')
+        
+        # We return a structured string that the agent's LLM can easily understand.
+        return f"Found Match: {page_content}\nCriticality Level: {criticality}"
+        
     return "No relevant information found in the supply chain database."
+
+if __name__ == '__main__':
+    print("--- Testing the upgraded retriever tool ---")
+    # We will simulate a query the agent might make
+    test_query = "What suppliers do we have in Taiwan?"
+    tool_output = supply_chain_retriever_tool.invoke(test_query)
+    
+    print(f"\nQuery: '{test_query}'")
+    print("Tool Output:")
+    print(tool_output)
+    print("\n--- Test complete ---")

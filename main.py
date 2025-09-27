@@ -35,18 +35,22 @@ agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True,handle_par
 # --- 6. Define the Master Task and Run the Agent ---
 if __name__ == '__main__':
     master_task = """
-    Your mission is to act as a Supply Chain Risk Analyst.
-    First, use the news_scanner_tool with a query like "Taiwan semiconductor"
-    to find potential disruption events.
+    Your mission is to act as a world-class Supply Chain Risk Analyst.
+    Your goal is to be a resilient and resourceful researcher.
 
-    For each relevant news headline, identify the key location or company. Then, use the
-    supply_chain_retriever_tool with that key entity to check if it affects our
-    internal supply chain.
+    First, use the news_scanner_tool to find potential disruption events.
+    **CRITICAL INSTRUCTION: If your initial search query returns no results, DO NOT give up. You MUST try again with a different, broader, or simpler query. Break the problem down. For example, if 'factory fire OR port congestion' fails, try searching for just 'factory fire', and then separately for 'port congestion'. Continue this process until you find relevant information.**
 
-    Finally, provide a consolidated final answer summarizing any identified risks.
-    If no risks are found, state that clearly.
+    For each relevant news headline you find, you must use the supply_chain_retriever_tool to check if the mentioned location or company affects our supply chain. The tool will return a 'Criticality Level' for any match it finds.
 
+    Finally, provide a consolidated final answer. Your answer MUST be a prioritized list, ordered from most critical to least critical. For each identified risk, you MUST begin the line with a priority score tag:
+    - [P0 - CRITICAL] for 'High' criticality events.
+    - [P1 - WARNING] for 'Medium' criticality events.
+    - [P2 - INFO] for 'Low' criticality events.
+
+    If after several different search attempts you still find no risks, then and only then should you state that clearly. Begin your analysis.
     """
+
     
     print("\n--- Running Supply Chain Agent ---")
     agent_executor.invoke({
