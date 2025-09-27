@@ -40,7 +40,7 @@ The agent autonomously scans for news events, cross-references them against a co
 
     ```bash
     git clone https://github.com/Krasper707/supply-chain-agent.git
-    cd your-repo-name
+    cd supply-chain-agent
     ```
 
 2.  **Create the environment file:**
