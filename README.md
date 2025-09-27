@@ -6,6 +6,8 @@ The agent autonomously scans for news events, cross-references them against a co
 
 ## Core Features
 
+- **Resilient & Autonomous Agent:** Uses a LangChain ReAct agent to reason, plan, and use custom tools. It can now recover from failed searches and adapt its strategy.
+- **Prioritized Risk Scoring:** Automatically scores risks (P0-Critical, P1-Warning, P2-Info) by enriching the RAG pipeline with material criticality metadata.
 - **Real-time News Ingestion:** Fetches the latest articles related to supply chain disruptions using the GNews API.
 - **Internal Knowledge Base:** Uses a vector database (ChromaDB) to store and retrieve information about a company's suppliers and materials.
 - **RAG Pipeline:** Employs a Retrieval-Augmented Generation architecture to provide the LLM with relevant, private context before making decisions.
@@ -38,7 +40,7 @@ The agent autonomously scans for news events, cross-references them against a co
 
     ```bash
     git clone https://github.com/Krasper707/supply-chain-agent.git
-    cd supply-chain-agent
+    cd your-repo-name
     ```
 
 2.  **Create the environment file:**
@@ -97,26 +99,26 @@ The agent autonomously scans for news events, cross-references them against a co
 
 ## Example Agent Workflow
 
-The agent follows a logical, multi-step reasoning process:
+The agent now follows a resilient, multi-step research process and delivers a prioritized, decision-ready report.
 
 ```
 > Entering new AgentExecutor chain...
 
-Thought: I need to start by scanning recent news for potential supply chain disruptions...
+Thought: My first broad query failed. I should not give up. I will try a more specific query.
 Action: news_scanner_tool
-Action Input: "Taiwan semiconductor"
+Action Input: "factory fire"
+Observation: [List of news articles about factory fires...]
 
-Observation: [List of news articles, e.g., "Title: Intel approaches TSMC for investments..."]
-
-Thought: I see news about Taiwan and TSMC. I need to check my internal database to see if this is relevant to our supply chain.
+Thought: I have found several articles. I will now check each location against our database to see if we have a supplier there and what their criticality is.
 Action: supply_chain_retriever_tool
-Action Input: "Taiwan"
+Action Input: "Mattress Factory in Kapurthala"
+Observation: Found Match: ...Flame-Retardant Polyurethane Foam... Criticality Level: High
+...
 
-Observation: [Context from the vector database, e.g., "Material 'ULTRA-95-A Microchip'...is supplied by 'Modern Delta Corp'...from New Taipei, Taiwan..."]
-
-Thought: I have found a direct connection. A news event mentions Taiwan, and our database confirms we have a supplier there. I can now form my final answer.
-
-Final Answer: Based on the recent news... the only relevant entity to our supply chain is the supplier 'Modern Delta Corp' in New Taipei, Taiwan... it is important to monitor the situation in Taiwan for any potential disruptions...
+Final Answer:
+- [P0 - CRITICAL] A factory fire in Kapurthala may affect the supply of 'Flame-Retardant Polyurethane Foam', a High criticality component from a supplier in Bangalore.
+- [P0 - CRITICAL] A factory blaze in Senai may affect the supply of 'TECH-427-B Motor Stator', a High criticality component from a supplier in Saitama.
+- [P2 - INFO] A furniture factory fire in Kathmandu has a potential link to our supply of 'Thermal Cotton Fabric', a Low criticality component.
 
 > Finished chain.
 ```
